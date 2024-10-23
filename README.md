@@ -1,10 +1,8 @@
-# Automating Language Translation with Firebase GenKit, Gemma, and Ollama
+<h1 align="center">Automating Language Translation with Firebase GenKit, Gemma, and Ollama</h1>
 
-Can AI truly bridge the language gap? 🤔
+<h3 align="center">Can AI truly bridge the language gap? 🤔</h3>
 
-**Repository Description:**
-
-This project demonstrates how to automate language translation using Firebase GenKit, Gemma, and Ollama by leveraging Firebase GenKit, Gemma and Ollama for natural language processing and translation tasks. 
+This project demonstrates how to automate language translation using Firebase GenKit, Gemma, and Ollama by leveraging Firebase GenKit, Gemma, and Ollama for natural language processing and translation tasks. 
 
 ### Technologies Used:
 - **Firebase**: A Google-backed platform that helps developers build, run, and scale apps for mobile and web.
@@ -16,5 +14,4 @@ This project demonstrates how to automate language translation using Firebase Ge
 Clone this repository and follow the setup instructions in the README to run the project locally.
 
 ```sh
-https://github.com/HassanBahati/firebase-genkit-gemma-ollama-translator.git
-```
+git clone https://github.com/HassanBahati/firebase-genkit-gemma-ollama-translator.git
